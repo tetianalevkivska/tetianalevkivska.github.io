@@ -6,8 +6,8 @@
 
 body {
    background-color:#f5f7fa;
-   padding-top: 40px;
-   padding-bottom: 40px;
+   padding-top: 20px;
+   padding-bottom: 10px;
    padding-left: 20px;
    padding-right: 20px;
    font-family: Montserrat;
@@ -34,9 +34,9 @@ body {
 
 .about-me-container {
     padding-left: 90px;
-    padding-right: 90px;
-    padding-top: 80px;
-    padding-bottom: 110px;
+    padding-right: 70px;
+    padding-top: 60px;
+    padding-bottom: 90px;
 }
 
 .contacts-container {
@@ -55,13 +55,13 @@ body {
 
 .contacts-link {
     color: #575f6b;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
 }
 
 .contacts-link-type {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     color: #ffffff;
     line-height: 24px;
@@ -83,7 +83,7 @@ body {
 }
 
 .tech-skills-item {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     margin-left: 15px;
@@ -91,7 +91,7 @@ body {
 }
 
 .tech-skills-text {
-    color: #c7c9cd;
+    color: #9ea0a5;
 }
 
 .soft-skills-title {
@@ -109,7 +109,7 @@ body {
 }
 
 .soft-skills-item {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     margin-left: 15px;
@@ -117,7 +117,7 @@ body {
 }
 
 .soft-skills-text {
-    color: #c7c9cd;
+    color: #9ea0a5;;
 }
 
 .languages-container {
@@ -135,7 +135,7 @@ body {
 }
 
 .languages-item {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     margin-left: 15px;
@@ -143,25 +143,25 @@ body {
 }
 
 .languages-text {
-    color: #c7c9cd;
+    color: #9ea0a5;;
 }
 
 .profession {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 24px;
-    margin-bottom: 13px;
+    margin-bottom: 10px;
 }
 
 .name {
     font-size: 35px;
     font-weight: 700;
-    line-height: 89px;
+    line-height: 69px;
 }
 
 .description {
     color: #595959;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     margin-top: 10px;
@@ -169,7 +169,7 @@ body {
 }
 
 .info-container {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .about-me-title {
@@ -180,12 +180,12 @@ body {
 }
 
 .Courses-and-certificates-container {
-    margin-bottom: 55px;
+    margin-bottom: 30px;
 }
 
 .Courses-and-certificates-title {
     color: #595959;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 510;
     line-height: 24px;
 }
@@ -201,17 +201,19 @@ body {
     font-weight: 550;
 }
 
+
 .Courses-and-certificates-text {
     color: #595959;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px; 
     margin-left: 30px;
     text-align: justify;
 }
 
+
 .profession-title {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     line-height: 24px;
     margin-top: 10px;
@@ -235,20 +237,20 @@ body {
 }
 
 .profession-duties {
-    margin-top: 14px;
+    margin-top: 16px;
     margin-bottom: 30px;
 }
 
 .profession-duties-item {
     color: #595959;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
 }
 
 .university-name {
     color: #ff6b08;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     line-height: 24px;
     margin-bottom: 10px;
@@ -256,7 +258,14 @@ body {
 }
 
 .education-specialty {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
+    line-height: 24px;
+}
+
+.project-link {
+    color: #575f6b;
+    font-size: 16px;
+    font-weight: 400;
     line-height: 24px;
 }
